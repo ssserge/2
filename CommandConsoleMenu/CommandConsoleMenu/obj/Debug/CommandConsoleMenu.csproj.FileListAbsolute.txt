@@ -1,0 +1,8 @@
+C:\Users\Maxim\Documents\Visual Studio 2013\Projects\C#\CommandConsoleMenu\CommandConsoleMenu\bin\Debug\CommandConsoleMenu.exe.config
+C:\Users\Maksym\Documents\Visual Studio 2015\Projects\C#\CommandConsoleMenu\CommandConsoleMenu\bin\Debug\CommandConsoleMenu.exe.config
+C:\Users\222\Desktop\CommandConsoleMenu\CommandConsoleMenu\bin\Debug\CommandConsoleMenu.exe.config
+C:\Users\222\Desktop\CommandConsoleMenu\CommandConsoleMenu\bin\Debug\CommandConsoleMenu.exe
+C:\Users\222\Desktop\CommandConsoleMenu\CommandConsoleMenu\bin\Debug\CommandConsoleMenu.pdb
+C:\Users\222\Desktop\CommandConsoleMenu\CommandConsoleMenu\obj\Debug\CommandConsoleMenu.csprojResolveAssemblyReference.cache
+C:\Users\222\Desktop\CommandConsoleMenu\CommandConsoleMenu\obj\Debug\CommandConsoleMenu.exe
+C:\Users\222\Desktop\CommandConsoleMenu\CommandConsoleMenu\obj\Debug\CommandConsoleMenu.pdb
